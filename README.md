@@ -1,5 +1,7 @@
+!WImage
 # Moon Pack
 Un pack que incluye lo necesario para cualquier principiante en el mundo de la magia en $WITCH
+!WImage
 
 ## Instalación
 1. Preparad Micro SD
