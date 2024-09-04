@@ -1,4 +1,4 @@
-!WImage(https://raw.githubusercontent.com/Helioos24010/Moon-Pack/main/Moon%20Pack.png)
+!Portada
 # Moon Pack
 Un pack que incluye lo necesario para cualquier principiante en el mundo de la magia en $WITCH
 !Moon Pack
