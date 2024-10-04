@@ -1,4 +1,6 @@
 ![Moon Pack](https://github.com/user-attachments/assets/cd614d05-df5b-4d54-a657-1d803cca7060)
+#Vaersión ALPHA
+El pack está incompleto y en estos momentos no funciona.
 # Moon Pack
 Un pack que incluye lo necesario para cualquier principiante en el mundo de la magia en $WITCH
 !Moon Pack
